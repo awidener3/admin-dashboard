@@ -1,6 +1,6 @@
 # Admin Dashboard
 
-📌 [Link to Deployed Application](awidener3.github.io/admin-dashboard)
+📌 [Link to Deployed Application](https://awidener3.github.io/admin-dashboard)
 
 ## 🔎 Overview
 
